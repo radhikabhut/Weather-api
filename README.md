@@ -16,7 +16,7 @@ Resty - HTTP client for 3rd party API requests
 
 ⚙️ Installation
 1. Clone the Repository
-git clone https://github.com/your-username/weather-api.git
+git clone https://github.com/radhikabhut/weather-api.git
 cd weather-api
 
 2. Docker
